@@ -140,3 +140,7 @@ Hotkey list:
  
 Markup : Code appears between colors :EMOJICODE:
 :mask:
+
+GGWP
+Name: Phiriya Promkaewma
+No.652115030
